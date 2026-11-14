@@ -1,4 +1,4 @@
-/* Banking System (simple version)
+/* Banking System
    Compile: gcc bank.c -o bank
    The account is saved in the file account.dat */
 
